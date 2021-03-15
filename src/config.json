@@ -1,0 +1,8 @@
+{
+  "githubOrganization": "yourOrganizationOrPrivateAccount",
+  "githubTemplateRepo": "yourGithubTemplateRepository",
+  "githubBranch": "main",
+  "netlifyUrlPrefix": "yourOrganization-",
+  "githubToken": "yourGithubPersonalAccessToken",
+  "netlifyAccessToken": "yourNetlifyPersonalAccessToken"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "autolinktemplaterepotonetlify",
+  "version": "1.0.0",
+  "description": "Clone a Github template repository and add it to Netlify to deploy it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t1gr0u/autoLinkTemplateRepoToNetlify.git"
+  },
+  "author": "t1gr0u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t1gr0u/autoLinkTemplateRepoToNetlify/issues"
+  },
+  "homepage": "https://github.com/t1gr0u/autoLinkTemplateRepoToNetlify#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.1.1",
+    "netlify": "^6.1.8"
+  }
+}
